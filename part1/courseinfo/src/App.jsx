@@ -32,7 +32,7 @@ const Total = ({ parts }) => {
 };
 
 const App = () => {
-  const course = "Half Stack application development";
+  const course = "Half Stack aapplication development";
   const parts = [
     {
       name: "Fundamentals of React",
